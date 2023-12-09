@@ -1,0 +1,66 @@
+
+[
+    {
+        "id": 0,
+        "titulo": "Arancini de Risoto",
+        "descricao": "Bolinho de risoto de alho poró",
+        "imagem": "../images/Arancini.jpg",
+        "preco": "10.00"
+    },
+    {
+        "id": 1,
+        "titulo": "Croquete de Queijo",
+        "descricao": "Delicioso croquete de queijo canastra",
+        "imagem": "../images/queijo.jpg",
+        "preco": "10.00"
+    },
+    {
+        "id": 2,
+        "titulo": "Croquete de Abobrinha",
+        "descricao": "Croquete feito com abobrinha ralada e um mix de temperos mediterrâneo",
+        "imagem": "../images/abobrinha.jpg",
+        "preco": "17.00"
+    },
+    {
+        "id": 3,
+        "titulo": "Arancini de Carne",
+        "descricao": "Croquete de carne cozida e desfiada com requeijão cremoso ",
+        "imagem": "../images/prato-1.webp",
+        "preco": "17.00"
+    },
+    {
+        "id": 4,
+        "titulo": "Croquete 4 queijos",
+        "descricao": "Croquete feito a base roux com queijo parmesão, provolone, gruyère e muçarela de bufala",
+        "imagem": "../images/prato-2.jpg",
+        "preco": "23.00"
+    },
+    {
+        "id": 5,
+        "titulo": "Croquete de Aipim",
+        "descricao": "Croquete de mandioca com salame italiano",
+        "imagem": "../images/aipim.jpg",
+        "preco": "25.00"
+    },
+    {
+        "id": 6,
+        "titulo": "Croquete Vegano",
+        "descricao": "Delicie-se com nosso croquete vegano, uma explosão de sabores saudáveis e texturas irresistíveis",
+        "imagem": "../images/prato-3.jpg",
+        "preco": "22.00"
+    },
+    {
+        "id": 7,
+        "titulo": "Croquete de Frango", 
+        "descricao": "Bolinho cremoso de risoto de frango",
+        "imagem": "../images/prato-4.jpg",
+        "preco": "15.00"
+    },
+    {
+        "id": 8,
+        "titulo": "Mix Sabores",
+        "descricao": "Você escolhe 5 (cinco) dos nossos sabores",
+        "imagem": "../images/combo.jpg",
+        "preco": "85.00"
+    }
+]
